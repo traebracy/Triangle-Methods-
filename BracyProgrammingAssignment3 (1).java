@@ -1,11 +1,6 @@
-/*
-I certify that this submission is my own work.
-I did not use artificial intelligence tools, code generators, or automated assistance of any kind.
-I have cited resources used to look up syntax. Signed Trae Bracy
- */
 import java.util.Scanner;
 
-public class BracyProgrammingAssignment3 {
+public class triangleMethods {
 
     // public allows access to all other classes,
     // static main function is called without creating an object
